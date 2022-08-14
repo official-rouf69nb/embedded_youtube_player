@@ -1,0 +1,1 @@
+export 'package:embedded_youtube_player/src/youtube_player.dart';

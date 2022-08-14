@@ -1,0 +1,22 @@
+PODS:
+  - embedded_youtube_player (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - embedded_youtube_player (from `.symlinks/plugins/embedded_youtube_player/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  embedded_youtube_player:
+    :path: ".symlinks/plugins/embedded_youtube_player/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  embedded_youtube_player: 935b5031cce4f161234fc69c018b970a0dbd54a3
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
